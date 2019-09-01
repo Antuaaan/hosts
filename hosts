@@ -4,11 +4,11 @@
 # with a dash of crowd sourcing via Github
 #
 # Date: 01 September 2019 15:08:45 (UTC)
-# Number of unique domains:
+# Number of unique domains:4
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# Project home page: https://github.com/StevenBlack/hosts
-# Project releases: https://github.com/StevenBlack/hosts/releases
+# Fetch the latest version of this file: https://github.com/Antuaaan/hosts/blob/master/hosts
+# Project home page:
+# Project releases:
 #
 # ===============================================================
 
@@ -35,8 +35,12 @@ ff02::3 ip6-allhosts
 
 #=====================================
 # Hosts contributed by Antuaaan
-# http://stevenblack.com
+#
 0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
 0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
 0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
 0.0.0.0 ninjakiwi.com
+0.0.0.0 www.ninjakiwi.com
